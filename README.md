@@ -1,4 +1,4 @@
-## Hello 👋 I'm Vijay Varadarajan
+#Hello 👋 I'm Vijay Varadarajan
 
 ## 🌟 About Me 
 
